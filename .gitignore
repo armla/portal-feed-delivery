@@ -1,0 +1,9 @@
+# Delivery repository: commit only approved generated XML files and this minimal documentation.
+*
+!.gitignore
+!README.md
+!encuentra24/
+!encuentra24/encuentra24_feed.xml
+!jamesedition/
+!jamesedition/elite.xml
+!jamesedition/portal.xml
